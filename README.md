@@ -67,7 +67,7 @@ São 38 projetos no git, a maioria privada. [Na bio](https://website.gvtserver.o
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://forexradar.gvtserver.online"><img src="assets/forexradar.jpg" alt="Site do Forex Session Radar"></a>
+  <a href="https://forexradar.gvtserver.online/app"><img src="assets/forexradar.jpg" alt="Painel do Forex Session Radar, com os relógios e a linha do tempo das sessões"></a>
   <h3><a href="https://forexradar.gvtserver.online">Forex Session Radar</a> <sub><code>open source</code></sub></h3>
   Quem está aberto no mundo, quando Londres e Nova York se encontram e o que merece atenção agora.
 </td>
@@ -92,15 +92,6 @@ Dez efeitos que reagem à música e mudam de cor com a capa do álbum. Também m
 
 ## 🧩 Código aberto
 
-<p align="center">
-  <a href="https://github.com/guianayans/ForexSessionRadar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guianayans&repo=ForexSessionRadar&theme=tokyonight&hide_border=true" alt="ForexSessionRadar"></a>
-  <a href="https://github.com/guianayans/pdfToolbox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guianayans&repo=pdfToolbox&theme=tokyonight&hide_border=true" alt="pdfToolbox"></a>
-  <a href="https://github.com/guianayans/ubuntuIsoBuilder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guianayans&repo=ubuntuIsoBuilder&theme=tokyonight&hide_border=true" alt="ubuntuIsoBuilder"></a>
-  <a href="https://github.com/guianayans/selfhost-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guianayans&repo=selfhost-website&theme=tokyonight&hide_border=true" alt="selfhost-website"></a>
-  <a href="https://github.com/guianayans/FlashGames"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guianayans&repo=FlashGames&theme=tokyonight&hide_border=true" alt="FlashGames"></a>
-  <a href="https://github.com/guianayans/tidalWaves"><img src="https://github-readme-stats.vercel.app/api/pin/?username=guianayans&repo=tidalWaves&theme=tokyonight&hide_border=true" alt="tidalWaves"></a>
-</p>
-
 | Projeto | O que faz |
 |---|---|
 | 💿 [**ubuntuIsoBuilder**](https://github.com/guianayans/ubuntuIsoBuilder) | Monta pendrives do Ubuntu Server que se instalam sozinhos, configurados por um painel web |
@@ -114,7 +105,8 @@ Dez efeitos que reagem à música e mudam de cor com a capa do álbum. Também m
 | 🌐 [**selfhost-website**](https://github.com/guianayans/selfhost-website) | Painel para publicar vários sites estáticos, com deploy por rsync e Docker |
 
 <p align="center">
-  <a href="https://github.com/guianayans/ubuntuIsoBuilder"><img src="assets/isobuilder.jpg" width="80%" alt="ubuntuIsoBuilder: configure no painel e grave no pendrive"></a>
+  <a href="https://iso.gvtserver.online"><img src="assets/isobuilder.gif" width="80%" alt="Site do ubuntuIsoBuilder: o pendrive entra no computador e a instalação acontece sozinha"></a>
+  <br><sub>o <a href="https://iso.gvtserver.online">ubuntuIsoBuilder</a> no ar, com a animação que acompanha a rolagem</sub>
 </p>
 
 ## 🛠️ Ferramentas
@@ -126,8 +118,8 @@ Dez efeitos que reagem à música e mudam de cor com a capa do álbum. Também m
 ## 📊 No GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guianayans&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=pt-br" height="165" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guianayans&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="165" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api?username=guianayans&show_icons=true&count_private=true&cache_seconds=86400&theme=tokyonight&hide_border=true&locale=pt-br" height="165" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guianayans&cache_seconds=86400&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="165" alt="Linguagens mais usadas">
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=guianayans&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições">
