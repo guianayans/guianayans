@@ -32,7 +32,7 @@ São 38 projetos no git, a maioria privada. [Na bio](https://website.gvtserver.o
 
 </td>
 <td width="38%" align="center" valign="top">
-  <a href="https://website.gvtserver.online/bio"><img src="assets/bio.gif" width="230" alt="A bio rolando no celular, com o notch tocando música"></a>
+  <a href="https://website.gvtserver.online/bio"><img src="assets/bio-grade.gif" width="230" alt="A bio rolando no celular, com o notch tocando música"></a>
   <br><sub>a <a href="https://website.gvtserver.online/bio">bio</a>, com o notch tocando música</sub>
 </td>
 </tr>
@@ -67,7 +67,7 @@ São 38 projetos no git, a maioria privada. [Na bio](https://website.gvtserver.o
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://forexradar.gvtserver.online/app"><img src="assets/forexradar.jpg" alt="Painel do Forex Session Radar, com os relógios e a linha do tempo das sessões"></a>
+  <a href="https://forexradar.gvtserver.online/app"><img src="assets/forexradar-painel.jpg" alt="Painel do Forex Session Radar, com os relógios e a linha do tempo das sessões"></a>
   <h3><a href="https://forexradar.gvtserver.online">Forex Session Radar</a> <sub><code>open source</code></sub></h3>
   Quem está aberto no mundo, quando Londres e Nova York se encontram e o que merece atenção agora.
 </td>
