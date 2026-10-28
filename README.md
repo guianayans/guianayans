@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://website.gvtserver.online/bio">
+  <a href="https://eubio.com.br/guianayans">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=8F7BFF&center=true&vCenter=true&width=620&lines=Fa%C3%A7o+apps+para+o+Mac;Protejo+servidores+Linux+em+tempo+real;Hospedo+tudo+no+meu+pr%C3%B3prio+servidor;17+apps+no+ar+%C2%B7+41+projetos+no+git" alt="Faço apps para o Mac, protejo servidores e hospedo tudo no meu próprio servidor">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://website.gvtserver.online/bio"><img src="https://img.shields.io/badge/todos_os_links-bio-8f7bff?style=for-the-badge&logo=linktree&logoColor=white" alt="Bio"></a>
+  <a href="https://eubio.com.br/guianayans"><img src="https://img.shields.io/badge/todos_os_links-bio-8f7bff?style=for-the-badge&logo=linktree&logoColor=white" alt="Bio"></a>
   <a href="https://instagram.com/yanguimaraesviana"><img src="https://img.shields.io/badge/@yanguimaraesviana-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://notchly.com.br"><img src="https://img.shields.io/badge/Notchly-para_macOS-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Notchly"></a>
 </p>
@@ -28,12 +28,12 @@ Eu construo produtos inteiros, do app ao servidor onde eles rodam.
 - 🇧🇷 **Em dados públicos:** o [Brasil Proposta](https://brasilproposta.com.br) reúne todos os candidatos, só com dados oficiais do TSE
 - 🏠 **Tudo self-hosted:** **17 apps** rodando no meu próprio servidor, com Docker, Coolify e Cloudflare
 
-São 41 projetos no git, a maioria privada. [Na bio](https://website.gvtserver.online/bio) eles aparecem com codinomes, e o notch toca a minha playlist 🎧
+São 41 projetos no git, a maioria privada. [Na bio](https://eubio.com.br/guianayans) eles aparecem com codinomes, e o notch toca a minha playlist 🎧
 
 </td>
 <td width="38%" align="center" valign="top">
-  <a href="https://website.gvtserver.online/bio"><img src="assets/bio-grade.gif" width="230" alt="A bio rolando no celular, com o notch tocando música"></a>
-  <br><sub>a <a href="https://website.gvtserver.online/bio">bio</a>, com o notch tocando música</sub>
+  <a href="https://eubio.com.br/guianayans"><img src="assets/bio-grade.gif" width="230" alt="A bio rolando no celular, com o notch tocando música"></a>
+  <br><sub>a <a href="https://eubio.com.br/guianayans">bio</a>, com o notch tocando música</sub>
 </td>
 </tr>
 </table>
