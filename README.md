@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://website.gvtserver.online/bio">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=8F7BFF&center=true&vCenter=true&width=620&lines=Fa%C3%A7o+apps+para+o+Mac;Protejo+servidores+Linux+em+tempo+real;Hospedo+tudo+no+meu+pr%C3%B3prio+servidor;16+apps+no+ar+%C2%B7+38+projetos+no+git" alt="Faço apps para o Mac, protejo servidores e hospedo tudo no meu próprio servidor">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=8F7BFF&center=true&vCenter=true&width=620&lines=Fa%C3%A7o+apps+para+o+Mac;Protejo+servidores+Linux+em+tempo+real;Hospedo+tudo+no+meu+pr%C3%B3prio+servidor;17+apps+no+ar+%C2%B7+39+projetos+no+git" alt="Faço apps para o Mac, protejo servidores e hospedo tudo no meu próprio servidor">
   </a>
 </p>
 
@@ -26,9 +26,9 @@ Eu construo produtos inteiros, do app ao servidor onde eles rodam.
 - 🛡️ **Na segurança:** o [TerminalSec](https://sec.gvtserver.online) mostra ao vivo quem tenta invadir o servidor, e de onde
 - 📈 **No trading:** o [RiskTrade](https://risktrade.com.br) mostra onde o trader erra, com dados em vez de achismo
 - 🇧🇷 **Em dados públicos:** o [Brasil Proposta](https://brasilproposta.com.br) reúne todos os candidatos, só com dados oficiais do TSE
-- 🏠 **Tudo self-hosted:** **16 apps** rodando no meu próprio servidor, com Docker, Coolify e Cloudflare
+- 🏠 **Tudo self-hosted:** **17 apps** rodando no meu próprio servidor, com Docker, Coolify e Cloudflare
 
-São 38 projetos no git, a maioria privada. [Na bio](https://website.gvtserver.online/bio) eles aparecem com codinomes, e o notch toca a minha playlist 🎧
+São 39 projetos no git, a maioria privada. [Na bio](https://website.gvtserver.online/bio) eles aparecem com codinomes, e o notch toca a minha playlist 🎧
 
 </td>
 <td width="38%" align="center" valign="top">
@@ -100,6 +100,7 @@ Dez efeitos que reagem à música e mudam de cor com a capa do álbum. Também m
 | 🧊 [**Sharp3DViewer**](https://github.com/guianayans/Sharp3DViewer) | Uma foto vira cena 3D navegável com Gaussian Splatting (Apple ml-sharp) |
 | 📊 [**gvtmonitor**](https://github.com/guianayans/gvtmonitor) | Painel de vidro para servidores Linux pelo SSH: métricas e containers |
 | 🌱 [**GreenHouse**](https://github.com/guianayans/GreenHouse) | Estufa com Arduino: sensores por vaso, bombas e rega automática em tempo real |
+| 📱 [**motoG15-adb-debloat**](https://github.com/guianayans/motoG15-adb-debloat) | Debloat sem root por ADB para o moto g15 e o Leve, um launcher Android de 44 KB com clima, cotações e notícias |
 | 🗂️ [**GVTNasDiskUtility**](https://github.com/guianayans/GVTNasDiskUtility) | NAS com compartilhamento de arquivos, na rede local ou pela VPN |
 | ⬇️ [**DownloaderAnalyser**](https://github.com/guianayans/DownloaderAnalyser) | Explorador de arquivos do servidor com downloads por wget, aria2, git e Hugging Face |
 | 🌐 [**selfhost-website**](https://github.com/guianayans/selfhost-website) | Painel para publicar vários sites estáticos, com deploy por rsync e Docker |
@@ -112,7 +113,7 @@ Dez efeitos que reagem à música e mudam de cor com a capa do álbum. Também m
 ## 🛠️ Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,ts,js,react,nextjs,nodejs,python,postgres,redis,docker,linux,ubuntu,nginx,cloudflare,tauri,tailwind,arduino&perline=9" alt="Swift, TypeScript, JavaScript, React, Next.js, Node.js, Python, PostgreSQL, Redis, Docker, Linux, Ubuntu, nginx, Cloudflare, Tauri, Tailwind e Arduino">
+  <img src="https://skillicons.dev/icons?i=swift,ts,js,react,nextjs,nodejs,python,postgres,redis,docker,linux,ubuntu,nginx,cloudflare,tauri,tailwind,arduino,java,androidstudio&perline=10" alt="Swift, TypeScript, JavaScript, React, Next.js, Node.js, Python, PostgreSQL, Redis, Docker, Linux, Ubuntu, nginx, Cloudflare, Tauri, Tailwind, Arduino, Java e Android">
 </p>
 
 ## 📊 No GitHub
