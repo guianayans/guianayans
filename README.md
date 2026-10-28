@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://website.gvtserver.online/bio">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=8F7BFF&center=true&vCenter=true&width=620&lines=Fa%C3%A7o+apps+para+o+Mac;Protejo+servidores+Linux+em+tempo+real;Hospedo+tudo+no+meu+pr%C3%B3prio+servidor;17+apps+no+ar+%C2%B7+39+projetos+no+git" alt="Faço apps para o Mac, protejo servidores e hospedo tudo no meu próprio servidor">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=8F7BFF&center=true&vCenter=true&width=620&lines=Fa%C3%A7o+apps+para+o+Mac;Protejo+servidores+Linux+em+tempo+real;Hospedo+tudo+no+meu+pr%C3%B3prio+servidor;17+apps+no+ar+%C2%B7+41+projetos+no+git" alt="Faço apps para o Mac, protejo servidores e hospedo tudo no meu próprio servidor">
   </a>
 </p>
 
@@ -28,7 +28,7 @@ Eu construo produtos inteiros, do app ao servidor onde eles rodam.
 - 🇧🇷 **Em dados públicos:** o [Brasil Proposta](https://brasilproposta.com.br) reúne todos os candidatos, só com dados oficiais do TSE
 - 🏠 **Tudo self-hosted:** **17 apps** rodando no meu próprio servidor, com Docker, Coolify e Cloudflare
 
-São 39 projetos no git, a maioria privada. [Na bio](https://website.gvtserver.online/bio) eles aparecem com codinomes, e o notch toca a minha playlist 🎧
+São 41 projetos no git, a maioria privada. [Na bio](https://website.gvtserver.online/bio) eles aparecem com codinomes, e o notch toca a minha playlist 🎧
 
 </td>
 <td width="38%" align="center" valign="top">
@@ -95,12 +95,13 @@ Dez efeitos que reagem à música e mudam de cor com a capa do álbum. Também m
 | Projeto | O que faz |
 |---|---|
 | 💿 [**ubuntuIsoBuilder**](https://github.com/guianayans/ubuntuIsoBuilder) | Monta pendrives do Ubuntu Server que se instalam sozinhos, configurados por um painel web |
-| 📄 [**pdfToolbox**](https://github.com/guianayans/pdfToolbox) | Extensão de navegador: acha os PDFs da página e extrai, divide, junta e converte |
+| 📄 [**pdfToolbox**](https://github.com/guianayans/pdfToolbox) | Extensão de navegador: acha os PDFs da página e extrai, divide, junta, converte e captura áreas da tela, 100% local |
 | 🌊 [**tidalWaves**](https://github.com/guianayans/tidalWaves) | Música feita com código, ao vivo no navegador, com projetos e gravações salvos |
 | 🧊 [**Sharp3DViewer**](https://github.com/guianayans/Sharp3DViewer) | Uma foto vira cena 3D navegável com Gaussian Splatting (Apple ml-sharp) |
 | 📊 [**gvtmonitor**](https://github.com/guianayans/gvtmonitor) | Painel de vidro para servidores Linux pelo SSH: métricas e containers |
 | 🌱 [**GreenHouse**](https://github.com/guianayans/GreenHouse) | Estufa com Arduino: sensores por vaso, bombas e rega automática em tempo real |
 | 📱 [**motoG15-adb-debloat**](https://github.com/guianayans/motoG15-adb-debloat) | Debloat sem root por ADB para o moto g15 e o Leve, um launcher Android de 44 KB com clima, cotações e notícias |
+| 📺 [**sonyX905E-adb-debloat**](https://github.com/guianayans/sonyX905E-adb-debloat) | Debloat sem root por ADB para a Sony Bravia XBR-75X905E (Android TV 9) e uma tela inicial sem anúncios: a RAM livre quase dobra |
 | 🗂️ [**GVTNasDiskUtility**](https://github.com/guianayans/GVTNasDiskUtility) | NAS com compartilhamento de arquivos, na rede local ou pela VPN |
 | ⬇️ [**DownloaderAnalyser**](https://github.com/guianayans/DownloaderAnalyser) | Explorador de arquivos do servidor com downloads por wget, aria2, git e Hugging Face |
 | 🌐 [**selfhost-website**](https://github.com/guianayans/selfhost-website) | Painel para publicar vários sites estáticos, com deploy por rsync e Docker |
