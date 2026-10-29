@@ -96,8 +96,8 @@ Dez efeitos que reagem à música e mudam de cor com a capa do álbum. Também m
 <table>
 <tr>
 <td width="56%"><img src="assets/painel-mercado.jpg" alt="Painel da bolsa em tela cheia na TV: índices, ações da B3, commodities, cripto e câmbio, com notícias e relógio"></td>
-<td width="44%"><img src="assets/painel-mercado-apps.jpg" alt="A faixa de apps do painel, para abrir qualquer app instalado na TV box"><br><br>
-Um dos privados: vira o TV box num painel da bolsa em tela cheia — ações da B3, índices do mundo, commodities, cripto e câmbio ao vivo, com notícias, relógio e clima. Substitui a tela inicial, tem modo <em>day trade</em> e uma faixa para abrir os outros apps. <sub><code>codinome</code></sub></td>
+<td width="44%"><img src="assets/painel-mercado-ajustes.jpg" alt="Tela de ajustes do painel, com descanso de tela, fonte de dados e clima"><br><br>
+Um dos privados: vira o TV box num painel da bolsa em tela cheia — ações da B3, índices do mundo, commodities, cripto e câmbio ao vivo, com notícias, relógio e clima. Substitui a tela inicial, tem modo <em>day trade</em> e segue o fuso da cidade que você escolhe. <sub><code>codinome</code></sub></td>
 </tr>
 </table>
 
