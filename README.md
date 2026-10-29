@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://eubio.com.br/guianayans">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=8F7BFF&center=true&vCenter=true&width=620&lines=Fa%C3%A7o+apps+para+o+Mac;Protejo+servidores+Linux+em+tempo+real;Hospedo+tudo+no+meu+pr%C3%B3prio+servidor;16+apps+no+ar+%C2%B7+45+projetos+no+git" alt="Faço apps para o Mac, protejo servidores e hospedo tudo no meu próprio servidor">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=8F7BFF&center=true&vCenter=true&width=620&lines=Fa%C3%A7o+apps+para+o+Mac;Protejo+servidores+Linux+em+tempo+real;Hospedo+tudo+no+meu+pr%C3%B3prio+servidor;16+apps+no+ar+%C2%B7+46+projetos+no+git" alt="Faço apps para o Mac, protejo servidores e hospedo tudo no meu próprio servidor">
   </a>
 </p>
 
@@ -29,7 +29,7 @@ Eu construo produtos inteiros, do app ao servidor onde eles rodam.
 - 🔗 **No link da bio:** o [eubio](https://eubio.com.br) faz páginas para o Instagram com endereço próprio, a sua música no notch e um painel de quem clicou
 - 🏠 **Tudo self-hosted:** **16 apps** rodando no meu próprio servidor, com Docker, Coolify e Cloudflare
 
-São 45 projetos no git, a maioria privada. [Na bio](https://eubio.com.br/guianayans) eles aparecem com codinomes, e o notch toca a minha playlist 🎧
+São 46 projetos no git, a maioria privada. [Na bio](https://eubio.com.br/guianayans) eles aparecem com codinomes, e o notch toca a minha playlist 🎧
 
 </td>
 <td width="38%" align="center" valign="top">
@@ -88,6 +88,16 @@ São 45 projetos no git, a maioria privada. [Na bio](https://eubio.com.br/guiana
 <td width="45%"><img src="assets/notchly-efeitos.jpg" alt="Ajustes de música do Notchly, com os efeitos do notch"></td>
 <td width="55%"><img src="assets/notchly-servidor.jpg" alt="Monitoramento de servidores no Notchly"><br><br>
 Dez efeitos que reagem à música e mudam de cor com a capa do álbum. Também mostra CPU, memória, containers e alertas dos servidores sem sair do notch.</td>
+</tr>
+</table>
+
+### 📺 Nos bastidores: TickerTV
+
+<table>
+<tr>
+<td width="56%"><img src="assets/painel-mercado.jpg" alt="Painel da bolsa em tela cheia na TV: índices, ações da B3, commodities, cripto e câmbio, com notícias e relógio"></td>
+<td width="44%"><img src="assets/painel-mercado-apps.jpg" alt="A faixa de apps do painel, para abrir qualquer app instalado na TV box"><br><br>
+Um dos privados: vira o TV box num painel da bolsa em tela cheia — ações da B3, índices do mundo, commodities, cripto e câmbio ao vivo, com notícias, relógio e clima. Substitui a tela inicial, tem modo <em>day trade</em> e uma faixa para abrir os outros apps. <sub><code>codinome</code></sub></td>
 </tr>
 </table>
 
