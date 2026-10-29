@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://eubio.com.br/guianayans">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=8F7BFF&center=true&vCenter=true&width=620&lines=Fa%C3%A7o+apps+para+o+Mac;Protejo+servidores+Linux+em+tempo+real;Hospedo+tudo+no+meu+pr%C3%B3prio+servidor;17+apps+no+ar+%C2%B7+44+projetos+no+git" alt="Faço apps para o Mac, protejo servidores e hospedo tudo no meu próprio servidor">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=8F7BFF&center=true&vCenter=true&width=620&lines=Fa%C3%A7o+apps+para+o+Mac;Protejo+servidores+Linux+em+tempo+real;Hospedo+tudo+no+meu+pr%C3%B3prio+servidor;16+apps+no+ar+%C2%B7+45+projetos+no+git" alt="Faço apps para o Mac, protejo servidores e hospedo tudo no meu próprio servidor">
   </a>
 </p>
 
@@ -27,9 +27,9 @@ Eu construo produtos inteiros, do app ao servidor onde eles rodam.
 - 📈 **No trading:** o [RiskTrade](https://risktrade.com.br) mostra onde o trader erra, com dados em vez de achismo
 - 🇧🇷 **Em dados públicos:** o [Brasil Proposta](https://brasilproposta.com.br) reúne todos os candidatos, só com dados oficiais do TSE
 - 🔗 **No link da bio:** o [eubio](https://eubio.com.br) faz páginas para o Instagram com endereço próprio, a sua música no notch e um painel de quem clicou
-- 🏠 **Tudo self-hosted:** **17 apps** rodando no meu próprio servidor, com Docker, Coolify e Cloudflare
+- 🏠 **Tudo self-hosted:** **16 apps** rodando no meu próprio servidor, com Docker, Coolify e Cloudflare
 
-São 44 projetos no git, a maioria privada. [Na bio](https://eubio.com.br/guianayans) eles aparecem com codinomes, e o notch toca a minha playlist 🎧
+São 45 projetos no git, a maioria privada. [Na bio](https://eubio.com.br/guianayans) eles aparecem com codinomes, e o notch toca a minha playlist 🎧
 
 </td>
 <td width="38%" align="center" valign="top">
