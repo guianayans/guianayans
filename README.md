@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://eubio.com.br/guianayans">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=8F7BFF&center=true&vCenter=true&width=620&lines=Fa%C3%A7o+apps+para+o+Mac;Protejo+servidores+Linux+em+tempo+real;Hospedo+tudo+no+meu+pr%C3%B3prio+servidor;16+apps+no+ar+%C2%B7+46+projetos+no+git" alt="Faço apps para o Mac, protejo servidores e hospedo tudo no meu próprio servidor">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=8F7BFF&center=true&vCenter=true&width=620&lines=Fa%C3%A7o+apps+para+o+Mac;Protejo+servidores+Linux+em+tempo+real;Hospedo+tudo+no+meu+pr%C3%B3prio+servidor;17+apps+no+ar+%C2%B7+47+projetos+no+git" alt="Faço apps para o Mac, protejo servidores e hospedo tudo no meu próprio servidor">
   </a>
 </p>
 
@@ -27,9 +27,9 @@ Eu construo produtos inteiros, do app ao servidor onde eles rodam.
 - 📈 **No trading:** o [RiskTrade](https://risktrade.com.br) mostra onde o trader erra, com dados em vez de achismo
 - 🇧🇷 **Em dados públicos:** o [Brasil Proposta](https://brasilproposta.com.br) reúne todos os candidatos, só com dados oficiais do TSE
 - 🔗 **No link da bio:** o [eubio](https://eubio.com.br) faz páginas para o Instagram com endereço próprio, a sua música no notch e um painel de quem clicou
-- 🏠 **Tudo self-hosted:** **16 apps** rodando no meu próprio servidor, com Docker, Coolify e Cloudflare
+- 🏠 **Tudo self-hosted:** **17 apps** rodando no meu próprio servidor, com Docker, Coolify e Cloudflare
 
-São 46 projetos no git, a maioria privada. [Na bio](https://eubio.com.br/guianayans) eles aparecem com codinomes, e o notch toca a minha playlist 🎧
+São 47 projetos no git, a maioria privada. [Na bio](https://eubio.com.br/guianayans) eles aparecem com codinomes, e o notch toca a minha playlist 🎧
 
 </td>
 <td width="38%" align="center" valign="top">
@@ -49,32 +49,39 @@ São 46 projetos no git, a maioria privada. [Na bio](https://eubio.com.br/guiana
   O notch do Mac acordou: música com efeitos, volume, timers, calendário, arquivos e o status do servidor, no topo da tela.
 </td>
 <td width="50%" valign="top">
+  <a href="https://audiotxt.gvtserver.online"><img src="assets/audiotxt.jpg" alt="Tela de transcrição do audioTXT"></a>
+  <h3><a href="https://audiotxt.gvtserver.online">audioTXT</a> <sub><code>IA · áudio</code></sub></h3>
+  Transcreve qualquer áudio ou vídeo na minha própria GPU com Whisper local — nada vai pra nuvem. Baixa o modelo pela tela, mostra a transcrição ao vivo e gera .txt e .srt.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
   <a href="https://sec.gvtserver.online"><img src="assets/terminalsec.jpg" alt="Site do TerminalSec"></a>
   <h3><a href="https://sec.gvtserver.online">TerminalSec</a> <sub><code>segurança</code></sub></h3>
   Cada tentativa de invasão aparece na hora, com o país de origem. O servidor se defende sozinho e avisa pelo WhatsApp.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <a href="https://risktrade.com.br"><img src="assets/risktrade.jpg" alt="Site do RiskTrade"></a>
   <h3><a href="https://risktrade.com.br">RiskTrade</a> <sub><code>trading</code></sub></h3>
   Performance em day trade, gestão de risco e diário operacional com IA. Você não perde por azar, perde por falta de clareza.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <a href="https://brasilproposta.com.br"><img src="assets/brasilproposta.jpg" alt="Site do Brasil Proposta"></a>
   <h3><a href="https://brasilproposta.com.br">Brasil Proposta</a> <sub><code>dados públicos</code></sub></h3>
   Todos os candidatos, do vereador ao presidente: partido, patrimônio declarado, votos e resultado, direto do TSE.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <a href="https://forexradar.gvtserver.online/app"><img src="assets/forexradar-painel.jpg" alt="Painel do Forex Session Radar, com os relógios e a linha do tempo das sessões"></a>
   <h3><a href="https://forexradar.gvtserver.online">Forex Session Radar</a> <sub><code>open source</code></sub></h3>
   Quem está aberto no mundo, quando Londres e Nova York se encontram e o que merece atenção agora.
 </td>
-<td width="50%" valign="top" align="center">
-  <a href="https://flashgames.gvtserver.online"><img src="assets/flashgames-lista.jpg" width="44%" alt="Lista de jogos do FlashGames no celular"></a>
-  <a href="https://flashgames.gvtserver.online"><img src="assets/flashgames-controle.jpg" width="44%" alt="Controle virtual do FlashGames no celular"></a>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+  <a href="https://flashgames.gvtserver.online"><img src="assets/flashgames-lista.jpg" width="22%" alt="Lista de jogos do FlashGames no celular"></a>
+  <a href="https://flashgames.gvtserver.online"><img src="assets/flashgames-controle.jpg" width="22%" alt="Controle virtual do FlashGames no celular"></a>
   <h3><a href="https://flashgames.gvtserver.online">FlashGames</a> <sub><code>open source</code></sub></h3>
   Jogos em Flash e consoles clássicos no navegador, com controle na tela do celular e save na nuvem.
 </td>
@@ -105,6 +112,7 @@ Um dos privados: vira o TV box num painel da bolsa em tela cheia — ações da 
 
 | Projeto | O que faz |
 |---|---|
+| 🎙️ [**audioTXT**](https://github.com/guianayans/audioTXT) | Transcreve áudio e vídeo 100% local na GPU com Whisper: baixa o modelo pela tela, transcreve ao vivo e gera .txt e .srt — nada sai do servidor |
 | 💿 [**ubuntuIsoBuilder**](https://github.com/guianayans/ubuntuIsoBuilder) | Monta pendrives do Ubuntu Server que se instalam sozinhos, configurados por um painel web |
 | 📄 [**pdfToolbox**](https://github.com/guianayans/pdfToolbox) | Extensão de navegador: acha os PDFs da página e extrai, divide, junta, converte e captura áreas da tela, 100% local |
 | 🌊 [**tidalWaves**](https://github.com/guianayans/tidalWaves) | Música feita com código, ao vivo no navegador, com projetos e gravações salvos |
