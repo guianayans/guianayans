@@ -139,11 +139,11 @@ Um dos privados: vira o TV box num painel da bolsa em tela cheia — ações da 
 ## 📊 No GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guianayans&show_icons=true&count_private=true&cache_seconds=86400&theme=tokyonight&hide_border=true&locale=pt-br" height="165" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guianayans&cache_seconds=86400&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="165" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=guianayans&show_icons=true&count_private=true&cache_seconds=86400&theme=tokyonight&hide_border=true&locale=pt-br" height="165" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guianayans&cache_seconds=86400&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="165" alt="Linguagens mais usadas">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=guianayans&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições">
+  <img src="https://streak-stats.demolab.com?user=guianayans&hide_border=true&locale=pt_BR&background=1A1B27&stroke=1A1B27&ring=FF6B00&fire=FF3D00&currStreakNum=FF8C00&currStreakLabel=FFB000&sideNums=C0CAF5&sideLabels=9AA5CE&dates=565F89" alt="Sequência de contribuições">
 </p>
 
 <p align="center">
